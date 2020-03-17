@@ -1,0 +1,24 @@
+{
+  "name": "bare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node install.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "dotenv": "^8.2.0",
+    "jest": "^24.9.0",
+    "puppeteer": "^2.1.1",
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1"
+  }
+}
